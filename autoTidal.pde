@@ -37,7 +37,7 @@ String[] sampleFolders;
 String[] limitedSamples;
 int[] limitedIndexes;
 
-boolean generateBigFile = true;
+boolean generateBigFile = false;
 
 // UDP client;
 
